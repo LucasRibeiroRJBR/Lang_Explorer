@@ -418,7 +418,7 @@ QFrame#frame_2 {
       <string>Good afternoon!</string>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_6">
+    <widget class="QPushButton" name="bt_english_1">
      <property name="enabled">
       <bool>true</bool>
      </property>
@@ -437,7 +437,7 @@ QFrame#frame_2 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_7">
+    <widget class="QPushButton" name="bt_english_2">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -450,7 +450,7 @@ QFrame#frame_2 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_8">
+    <widget class="QPushButton" name="bt_english_3">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -463,7 +463,7 @@ QFrame#frame_2 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_9">
+    <widget class="QPushButton" name="bt_english_4">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -476,7 +476,7 @@ QFrame#frame_2 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_10">
+    <widget class="QPushButton" name="bt_english_5">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -695,7 +695,7 @@ QFrame#frame_3 {
       <string>Good afternoon!</string>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_11">
+    <widget class="QPushButton" name="bt_french_1">
      <property name="enabled">
       <bool>true</bool>
      </property>
@@ -714,7 +714,7 @@ QFrame#frame_3 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_12">
+    <widget class="QPushButton" name="bt_french_2">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -727,7 +727,7 @@ QFrame#frame_3 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_13">
+    <widget class="QPushButton" name="bt_french_3">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -740,7 +740,7 @@ QFrame#frame_3 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_14">
+    <widget class="QPushButton" name="bt_french_4">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -753,7 +753,7 @@ QFrame#frame_3 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_15">
+    <widget class="QPushButton" name="bt_french_5">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -977,7 +977,7 @@ QFrame#frame_4 {
       <string>Good afternoon!</string>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_16">
+    <widget class="QPushButton" name="bt_german_1">
      <property name="enabled">
       <bool>true</bool>
      </property>
@@ -996,7 +996,7 @@ QFrame#frame_4 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_17">
+    <widget class="QPushButton" name="bt_german_2">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -1009,7 +1009,7 @@ QFrame#frame_4 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_18">
+    <widget class="QPushButton" name="bt_german_3">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -1022,7 +1022,7 @@ QFrame#frame_4 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_19">
+    <widget class="QPushButton" name="bt_german_4">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -1035,7 +1035,7 @@ QFrame#frame_4 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_20">
+    <widget class="QPushButton" name="bt_german_5">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -1254,7 +1254,7 @@ QFrame#frame_5 {
       <string>Good afternoon!</string>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_21">
+    <widget class="QPushButton" name="bt_hebrew_1">
      <property name="enabled">
       <bool>true</bool>
      </property>
@@ -1273,7 +1273,7 @@ QFrame#frame_5 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_22">
+    <widget class="QPushButton" name="bt_hebrew_2">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -1286,7 +1286,7 @@ QFrame#frame_5 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_23">
+    <widget class="QPushButton" name="bt_hebrew_3">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -1299,7 +1299,7 @@ QFrame#frame_5 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_24">
+    <widget class="QPushButton" name="bt_hebrew_4">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -1312,7 +1312,7 @@ QFrame#frame_5 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_25">
+    <widget class="QPushButton" name="bt_hebrew_5">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -1536,7 +1536,7 @@ QFrame#frame_6 {
       <string>Good afternoon!</string>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_26">
+    <widget class="QPushButton" name="bt_italian_1">
      <property name="enabled">
       <bool>true</bool>
      </property>
@@ -1555,7 +1555,7 @@ QFrame#frame_6 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_27">
+    <widget class="QPushButton" name="bt_italian_2">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -1568,7 +1568,7 @@ QFrame#frame_6 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_28">
+    <widget class="QPushButton" name="bt_italian_3">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -1581,7 +1581,7 @@ QFrame#frame_6 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_29">
+    <widget class="QPushButton" name="bt_italian_4">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -1594,7 +1594,7 @@ QFrame#frame_6 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_30">
+    <widget class="QPushButton" name="bt_italian_5">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -1818,7 +1818,7 @@ QFrame#frame_7 {
       <string>Good afternoon!</string>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_31">
+    <widget class="QPushButton" name="bt_japanese_1">
      <property name="enabled">
       <bool>true</bool>
      </property>
@@ -1837,7 +1837,7 @@ QFrame#frame_7 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_32">
+    <widget class="QPushButton" name="bt_japanese_2">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -1850,7 +1850,7 @@ QFrame#frame_7 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_33">
+    <widget class="QPushButton" name="bt_japanese_3">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -1863,7 +1863,7 @@ QFrame#frame_7 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_34">
+    <widget class="QPushButton" name="bt_japanese_4">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -1876,7 +1876,7 @@ QFrame#frame_7 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_35">
+    <widget class="QPushButton" name="bt_japanese_5">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -2100,7 +2100,7 @@ QFrame#frame_8 {
       <string>Good afternoon!</string>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_36">
+    <widget class="QPushButton" name="bt_korean_1">
      <property name="enabled">
       <bool>true</bool>
      </property>
@@ -2119,7 +2119,7 @@ QFrame#frame_8 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_37">
+    <widget class="QPushButton" name="bt_korean_2">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -2132,7 +2132,7 @@ QFrame#frame_8 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_38">
+    <widget class="QPushButton" name="bt_korean_3">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -2145,7 +2145,7 @@ QFrame#frame_8 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_39">
+    <widget class="QPushButton" name="bt_korean_4">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -2158,7 +2158,7 @@ QFrame#frame_8 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_40">
+    <widget class="QPushButton" name="bt_korean_5">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -2382,7 +2382,7 @@ QFrame#frame_9 {
       <string>Good afternoon!</string>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_41">
+    <widget class="QPushButton" name="bt_mandarin_1">
      <property name="enabled">
       <bool>true</bool>
      </property>
@@ -2401,7 +2401,7 @@ QFrame#frame_9 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_42">
+    <widget class="QPushButton" name="bt_mandarin_2">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -2414,7 +2414,7 @@ QFrame#frame_9 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_43">
+    <widget class="QPushButton" name="bt_mandarin_3">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -2427,7 +2427,7 @@ QFrame#frame_9 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_44">
+    <widget class="QPushButton" name="bt_mandarin_4">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -2440,7 +2440,7 @@ QFrame#frame_9 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_45">
+    <widget class="QPushButton" name="bt_mandarin_5">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -2664,7 +2664,7 @@ QFrame#frame_10 {
       <string>Good afternoon!</string>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_46">
+    <widget class="QPushButton" name="bt_portuguese_1">
      <property name="enabled">
       <bool>true</bool>
      </property>
@@ -2683,7 +2683,7 @@ QFrame#frame_10 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_47">
+    <widget class="QPushButton" name="bt_portuguese_2">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -2696,7 +2696,7 @@ QFrame#frame_10 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_48">
+    <widget class="QPushButton" name="bt_portuguese_3">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -2709,7 +2709,7 @@ QFrame#frame_10 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_49">
+    <widget class="QPushButton" name="bt_portuguese_4">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -2722,7 +2722,7 @@ QFrame#frame_10 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_50">
+    <widget class="QPushButton" name="bt_portuguese_5">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -2951,7 +2951,7 @@ color: #717171;</string>
       <string>Good afternoon!</string>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_51">
+    <widget class="QPushButton" name="bt_russian_1">
      <property name="enabled">
       <bool>true</bool>
      </property>
@@ -2970,7 +2970,7 @@ color: #717171;</string>
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_52">
+    <widget class="QPushButton" name="bt_russian_2">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -2983,7 +2983,7 @@ color: #717171;</string>
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_53">
+    <widget class="QPushButton" name="bt_russian_3">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -2996,7 +2996,7 @@ color: #717171;</string>
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_54">
+    <widget class="QPushButton" name="bt_russian_4">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -3009,7 +3009,7 @@ color: #717171;</string>
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_55">
+    <widget class="QPushButton" name="bt_russian_5">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -3228,7 +3228,7 @@ QFrame#frame_12 {
       <string>Good afternoon!</string>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_56">
+    <widget class="QPushButton" name="bt_spanish_1">
      <property name="enabled">
       <bool>true</bool>
      </property>
@@ -3247,7 +3247,7 @@ QFrame#frame_12 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_57">
+    <widget class="QPushButton" name="bt_spanish_2">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -3260,7 +3260,7 @@ QFrame#frame_12 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_58">
+    <widget class="QPushButton" name="bt_spanish_3">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -3273,7 +3273,7 @@ QFrame#frame_12 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_59">
+    <widget class="QPushButton" name="bt_spanish_4">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -3286,7 +3286,7 @@ QFrame#frame_12 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_60">
+    <widget class="QPushButton" name="bt_spanish_5">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -3510,7 +3510,7 @@ QFrame#frame_13 {
       <string>Good afternoon!</string>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_61">
+    <widget class="QPushButton" name="bt_vietnamese_1">
      <property name="enabled">
       <bool>true</bool>
      </property>
@@ -3529,7 +3529,7 @@ QFrame#frame_13 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_62">
+    <widget class="QPushButton" name="bt_vietnamese_2">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -3542,7 +3542,7 @@ QFrame#frame_13 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_63">
+    <widget class="QPushButton" name="bt_vietnamese_3">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -3555,7 +3555,7 @@ QFrame#frame_13 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_64">
+    <widget class="QPushButton" name="bt_vietnamese_4">
      <property name="geometry">
       <rect>
        <x>700</x>
@@ -3568,7 +3568,7 @@ QFrame#frame_13 {
       <string/>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_65">
+    <widget class="QPushButton" name="bt_vietnamese_5">
      <property name="geometry">
       <rect>
        <x>700</x>

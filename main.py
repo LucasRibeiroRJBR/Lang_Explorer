@@ -10,9 +10,11 @@ def open_forvo():
     url = 'https://forvo.com/'
     webbrowser.open(url, new=1)
 
+
 def open_freepik():
     url = 'https://www.freepik.com/'
     webbrowser.open(url, new=1)
+
 
 def open_github():
     url = 'https://github.com/LucasRibeiroRJBR'
@@ -35,6 +37,7 @@ window = uic.loadUi('ui/main_window.ui')
 for i in lang:
     for j in range(1, 6):
         exec(f"window.bt_{i}_{j}.clicked.connect(play_{i}_{j})")
+        exec(f"window.bt_{i}_{j}.setIcon(QtGui.QIcon('img/icons/play.png'))")
 
 # Effects
 for i in lang:

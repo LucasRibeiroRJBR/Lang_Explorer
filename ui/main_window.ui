@@ -31,6 +31,11 @@
   <property name="windowTitle">
    <string>Lang Explorer</string>
   </property>
+  <property name="styleSheet">
+   <string notr="true">QPushButton {
+	background-color: #00000000;
+}</string>
+  </property>
   <property name="currentIndex">
    <number>0</number>
   </property>

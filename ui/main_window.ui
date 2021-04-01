@@ -2245,7 +2245,7 @@ color: #717171;</string>
 color: #717171;</string>
      </property>
      <property name="text">
-      <string>좋은 오후입니다!</string>
+      <string>안녕하세요!</string>
      </property>
     </widget>
     <widget class="QLabel" name="label_83">
@@ -2262,7 +2262,7 @@ color: #717171;</string>
 color: #717171;</string>
      </property>
      <property name="text">
-      <string>안녕히 주무세요!</string>
+      <string>잘자요!</string>
      </property>
     </widget>
     <widget class="QLabel" name="label_84">

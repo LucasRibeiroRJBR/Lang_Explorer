@@ -25,6 +25,10 @@ for i in lang:
     for j in range(1, 6):
         exec(f"def play_{i}_{j}(): mixer.music.load('audios/{i}/{j}.mp3');mixer.music.play()")
 
+def play_arabic_0():
+    mixer.music.load('audios/arabic/1.mp3')
+    mixer.music.play()
+
 mixer.init()
 
 # Initializing app and window
